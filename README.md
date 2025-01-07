@@ -1,1 +1,1 @@
-# This is a collabaoration between Manoj and Vaidehi.
+# This is a collaboration between Manoj and Vaidehi.
